@@ -31,6 +31,7 @@ ul li a{
     text-decoration: none;
     padding: 2px 20px;
     border: 1px transparent solid;
+    z-index: 8;
 }
 
 ul li a:hover{
