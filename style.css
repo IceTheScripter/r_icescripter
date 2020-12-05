@@ -117,6 +117,7 @@ ul li.active a{
     padding: 20px;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10%;
   }
   
 .close-btn {
